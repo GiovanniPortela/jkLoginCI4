@@ -1,0 +1,19 @@
+{
+    "name": "vendor/jk-login-codeigniter4-package",
+    "description": "A login package for CodeIgniter 4",
+    "type": "library",
+    "require": {
+        "php": ">=7.4",
+        "codeigniter4/framework": "^4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Vendor\\MyLoginPackage\\": "src/"
+        }
+    },
+    "extra": {
+        "codeigniter-config": [
+            "Vendor\\MyLoginPackage\\Config\\Login"
+        ]
+    }
+}
