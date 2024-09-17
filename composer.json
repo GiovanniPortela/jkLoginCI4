@@ -1,5 +1,5 @@
 {
-    "name": "vendor/jklogincodeigniter4package",
+    "name": "giovanniportela/jklogincodeigniter4package",
     "description": "A login package for CodeIgniter 4",
     "type": "library",
     "require": {
