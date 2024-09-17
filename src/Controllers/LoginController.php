@@ -1,5 +1,5 @@
 <?php
-namespace Vendor\jkLoginCI4\Controllers;
+namespace Vendor\jklogincodeigniter4package\Controllers;
 
 use CodeIgniter\Controller;
 use Vendor\jklogincodeigniter4package\Models\UserModel;
