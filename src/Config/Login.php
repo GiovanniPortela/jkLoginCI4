@@ -1,5 +1,5 @@
 <?php
-namespace Vendor\jkLoginCI4\Config;
+namespace Vendor\jklogincodeigniter4package\Config;
 
 use CodeIgniter\Config\BaseConfig;
 

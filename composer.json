@@ -1,5 +1,5 @@
 {
-    "name": "vendor/jk-login-codeigniter4-package",
+    "name": "vendor/jklogincodeigniter4package",
     "description": "A login package for CodeIgniter 4",
     "type": "library",
     "require": {
@@ -8,12 +8,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Vendor\\MyLoginPackage\\": "src/"
+            "Vendor\\jklogincodeigniter4package\\": "src/"
         }
     },
     "extra": {
         "codeigniter-config": [
-            "Vendor\\MyLoginPackage\\Config\\Login"
+            "Vendor\\jklogincodeigniter4package\\Config\\Login"
         ]
     }
 }

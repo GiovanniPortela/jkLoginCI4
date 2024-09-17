@@ -2,7 +2,7 @@
 namespace Vendor\jkLoginCI4\Controllers;
 
 use CodeIgniter\Controller;
-use Vendor\MyLoginPackage\Models\UserModel;
+use Vendor\jklogincodeigniter4package\Models\UserModel;
 
 class LoginController extends Controller
 {

@@ -1,5 +1,5 @@
 <?php
-namespace Vendor\jkLoginCI4\Models;
+namespace Vendor\jklogincodeigniter4package\Models;
 
 use CodeIgniter\Model;
 
