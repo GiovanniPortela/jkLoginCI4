@@ -1,6 +1,7 @@
 {
     "name": "giovanniportela/jklogincodeigniter4package",
     "description": "A login package for CodeIgniter 4",
+    "version:": "1.0.0",
     "type": "library",
     "require": {
         "php": ">=7.4",
